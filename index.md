@@ -1,3 +1,5 @@
+{% raw %}{% include nav.html %}{% endraw %}
+
 # About Us
 
 Welcome to the offical site of The AndroidMerc Show! Here you'll find updates about upcoming streams, contests, and how to connect with us on social media.
