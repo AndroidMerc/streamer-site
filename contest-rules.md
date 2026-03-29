@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Official Contest Rules: AndroidMerc's 7th Year Launch Party Giveaway
 1. **Eligibility**
 	- This contest is open to legal residents of **Canada, the United States, the United Kingdom, and Australia.**
