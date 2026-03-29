@@ -1,4 +1,4 @@
-{% raw %}{% include nav.html %}{% endraw %}
+[Home](/streamer-site/) | [Contest Rules](/streamer-site/contest-rules) | [Twitch](https://www.twitch.tv/androidmerc)
 
 # Official Contest Rules: AndroidMerc's 7th Year Launch Party Giveaway
 1. **Eligibility**
