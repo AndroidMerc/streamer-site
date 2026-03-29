@@ -9,7 +9,7 @@
 2. **No Purchase Necessary & Methods of Entry**
 	- No purchase, payment, or "Bits/Subscription" is required to enter or win.
 	- Paid support does not increase chances of winning.
-	- **Method A (Random Draws):** Viewers may enter periodic random draws by **typing !seven** in the Twitch chat during designated entry windows. Entry windows will remain open for at least 60 seconds following any commercial breaks to ensure all viewers have an equal opportunity to enter.
+	- **Method A (Random Draws):** Viewers may enter periodic random draws by **typing giveaway** in the Twitch chat during designated entry windows. Entry windows will remain open for at least 60 seconds following any commercial breaks to ensure all viewers have an equal opportunity to enter.
 	- **Method B (Community Games):** Viewers may enter by **participating in designated community games** (e.g., Jackbox, Marbles on Stream, etc.) during the stream. Winners of these games will be eligible for prizes subject to the "Skill-Testing Question" requirement in Section 6. Participation in games is on a first-come, first-served basis due to lobby limits.
 3. **Prize Distribution & Limits**
 	- **Limit:** One (1) prize per person for the duration of the stream.
