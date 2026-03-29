@@ -1,16 +1,12 @@
 ---
 ---
+/* your overrides below */
 
-@import "{{ site.theme }}";
+// Hiding 'View on GitHub' button
+.github-corner { display: none !important; }
 
 // Custom Colors
-
 $primary-color: #8CAC1C;
 $secondary-blue: #1A4B74;
 $secondary-orange: #B47D1D;
 $complement-purple: #81156D;
-
-// Hiding 'View on GitHub' button
-.view-on-github {
-    display: none;
-}
