@@ -19,7 +19,7 @@
 	- The Sponsor will cover standard shipping costs.
 	- **Winner Liability:** International winners are **solely responsible** for any local customs duties, taxes, or Value Added Tax (VAT) required by their country upon delivery.
 6. **The Skill-Testing Question (Requirement)**
-	- To comply with the **Canadian Criminal Code** and international "Game of Skill" standards, every potential winner must correctly answer a multi-step mathematical skill-testing question (e.g., $[7 \times 10] + 14 - 7$) without assistance.
+	- To comply with the **Canadian Criminal Code** and international "Game of Skill" standards, every potential winner must correctly answer a multi-step mathematical skill-testing question (e.g., [7 &times; 10] + 14 - 7) without assistance.
 	- The test is administered via **Twitch Whisper.** The entrant has **60 seconds** to reply with the correct answer to be declared the official winner.
 7. **Winner Notification & Data Collection**
 	- Winners will be announced live and notified via Whisper.
