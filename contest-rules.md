@@ -1,4 +1,4 @@
-# Official Contest Rules: AndroidMerc's 7th Year Launch Party Giveaway #
+# Official Contest Rules: AndroidMerc's 7th Year Launch Party Giveaway
 1. **Eligibility**
 	- This contest is open to legal residents of **Canada, the United States, the United Kingdom, and Australia.**
 	- Participants must be at least **18 years of age** or the age of majority in their jurisdiction.
