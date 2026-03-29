@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/streamer-site/assets/css/style.css">
+
 [Home](/streamer-site/) | [Contest Rules](/streamer-site/contest-rules) | [Twitch](https://www.twitch.tv/androidmerc)
 
 # About Us
