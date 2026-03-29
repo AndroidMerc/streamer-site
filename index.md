@@ -1,27 +1,26 @@
-# About Me
+# About Us
 
-Welcome to my streaming site! I'm passionate about gaming and sharing my experiences with you. Here you'll find updates about my streams, contests, and how to connect with me on social media.
+Welcome to the offical site of The AndroidMerc Show! Here you'll find updates about upcoming streams, contests, and how to connect with us on social media.
 
 # Streaming Schedule
 
-Tune in to my streams at the following times:
-- **Monday**: 7 PM - 10 PM UTC
-- **Wednesday**: 7 PM - 10 PM UTC
-- **Friday**: 8 PM - 11 PM UTC
+Tune in to the streams at the following times:
+- **Friday**: 8 PM - 12 AM Pacific
 
-Make sure to catch me live on Twitch!
+Make sure to catch us live on Twitch!
 
 # Useful Links
 
 - [Twitch](https://www.twitch.tv/androidmerc)
-- [YouTube](https://www.youtube.com/androidmerc)
+- [YouTube](https://www.youtube.com/@androidmerc)
 - [Instagram](https://www.instagram.com/androidmerc)
-- [Discord](https://discord.gg/androidmerc)
-- [Shop](https://shop.androidmerc.com)
+- [Discord](https://discord.gg/stfSYQAZyW)
+- [Shop](https://androidmerc-shop.fourthwall.com)
 
 # Contest Information
 
 Stay tuned for upcoming contests! Here are the details for our next contest:
-- **Starts**: April 1, 2026
-- **Ends**: April 15, 2026
-- **How to enter**: Follow me on all social platforms, and watch the streams for special instructions!
+- **Season 7 Launch Party Giveaway**
+- **Starts**: April 3, 2026
+- **Ends**: April 4, 2026
+- **How to enter**: See [Contest Rules](contest-rules) and watch the Launch Party livestream for special instructions!
