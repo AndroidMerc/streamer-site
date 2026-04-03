@@ -29,7 +29,7 @@
 		2. Correctly answer the skill-testing question via Whisper.
 		3. **Provide their Legal Name, Email Address, and Country of Residence.**
 	- If the selected entrant fails to claim (by typing !claim) within the sixty (60) second window, they will be disqualified and a new winner will be drawn.
- 	- Winners must be able to receive Twitch Whispers from the Sponsor. **To ensure your privacy settings do not block the notification, it is highly recommended that participants follow the channel or temporarily disable "Block Whispers from Strangers" in their Security & Privacy settings.**
+	- Winners must be able to receive Twitch Whispers from the Sponsor. **To ensure your privacy settings do not block the notification, it is highly recommended that participants follow the channel or temporarily disable "Block Whispers from Strangers" in their Security & Privacy settings.**
 	- Prizes distributed through the merch store will also require the winner's shipping address at the time of redemption on the store's platform.
 	- Failure to provide required info or pass the skill test within the time limit results in forfeiture.
  	- A list of winners (Twitch Username and Prize won) will be available upon request via Twitch Whisper for 30 days following the event.
